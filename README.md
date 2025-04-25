@@ -2,18 +2,30 @@
 Modeled after this commercial device:  https://www.retsch.com/products/milling/ball-mills/planetary-ball-mill-pm-100/
 
 Chambers counter-rotate 2X speed of motor
+
 Chamber path radius: 85mm
+
 Chamber diameter: 50mm
+
 Chamber height: 30mm
+
 Chamber volume:  60ml (appx)
+
 Radius to chamber outer wall (85 + 25 =  110mm)
+
 g-force at 600RPM:  44g
 
+
 Power consumption:
+
 Idle: 16W
+
 600RPM chambers empty: 45W
+
 600RPM 15 9.5mm balls in each chamber:  110W
+
 600RPM 96 6.35mm balls in each chamber:  200W
+
 
 
 Rectangular aluminum tube (main beam):  https://www.mcmaster.com/6546K23/  $25
