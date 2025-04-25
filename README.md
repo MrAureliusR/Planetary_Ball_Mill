@@ -1,3 +1,5 @@
+![Planetary ball mill photo](./planetary_ball_mill.jpg?raw=true "Planetary Ball Mill")
+
 
 Modeled after this commercial device:  https://www.retsch.com/products/milling/ball-mills/planetary-ball-mill-pm-100/
 
@@ -25,6 +27,10 @@ Idle: 16W
 600RPM 15 9.5mm balls in each chamber:  110W
 
 600RPM 96 6.35mm balls in each chamber:  200W
+
+
+
+
 
 
 
