@@ -1,31 +1,23 @@
-![Planetary ball mill photo](./planetary_ball_mill.jpg?raw=true "Planetary Ball Mill")
+![Planetary ball mill photo](./planetary_ball_mill.jpg?raw=true "Planetary Ball Mill")<br>
+![Planetary ball mill CAD](./ball_mill_CAD.jpg?raw=true "Planetary Ball Mill CAD")
 
-
-Modeled after this commercial device:  https://www.retsch.com/products/milling/ball-mills/planetary-ball-mill-pm-100/
-
-Chambers counter-rotate 2X speed of motor
-
-Chamber path radius: 85mm
-
-Chamber diameter: 50mm
-
-Chamber height: 30mm
-
-Chamber volume:  60ml (appx)
-
+Modeled after this commercial device:  https://www.retsch.com/products/milling/ball-mills/planetary-ball-mill-pm-100/<br>
+<br><br>
+Chambers counter-rotate 2X speed of motor<br>
+Chamber path radius: 85mm<br>
+Chamber diameter: 50mm<br>
+Chamber height: 30mm<br>
+Chamber volume:  60ml (appx)<br>
+<br><br>
 Radius to chamber outer wall (85 + 25 =  110mm)
 
 g-force at 600RPM:  44g
 
 
 Power consumption:
-
 Idle: 16W
-
 600RPM chambers empty: 45W
-
 600RPM 15 9.5mm balls in each chamber:  110W
-
 600RPM 96 6.35mm balls in each chamber:  200W
 
 
