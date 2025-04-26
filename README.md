@@ -38,3 +38,4 @@ Total parts cost:  $832<br>
 
 Hardened stainless steel grinding balls:  https://www.mcmaster.com/9529K19/  $18<br>
 
+![Planetary ball mill chamber detail](./chamber_detail.jpg?raw=true "Chamber welded to support shaft")
